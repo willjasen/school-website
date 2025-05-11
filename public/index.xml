@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>school</title>
+      <link>https://school.willjasen.com</link>
+      <description>Last 10 notes on school</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>hello_world</title>
+    <link>https://school.willjasen.com/hello_world</link>
+    <guid>https://school.willjasen.com/hello_world</guid>
+    <description>Hello world! Here is a bunch of stuff relating to school and my education, both when I was in high school and then in college.</description>
+    <pubDate>Thu, 22 Aug 2024 06:38:16 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://school.willjasen.com/</link>
+    <guid>https://school.willjasen.com/</guid>
+    <description>Hello world! Here is a bunch of stuff relating to school and my education, both when I was in high school and then in college.</description>
+    <pubDate>Thu, 22 Aug 2024 06:38:16 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
