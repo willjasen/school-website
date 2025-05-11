@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "school.willjasen.com",
-    ignorePatterns: ["🚌 High School", "🏫 College"],
+    ignorePatterns: ["🏫 College"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
