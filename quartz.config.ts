@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "school.willjasen.com",
     ignorePatterns: [
+        "building.md",
         "🏫 College/to-do",
         "🏫 College/Fall 2006/English 1010",
         "🏫 College/Fall 2006/Probability and Statistics",
@@ -62,7 +63,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
